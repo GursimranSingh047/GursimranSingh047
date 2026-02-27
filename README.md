@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gursimran Singh 👋
 
-<!--
-**GursimranSingh047/GursimranSingh047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student  
+🤖 Building AI Co-Builder (ProjectPilot)  
+🧠 Researching Agentic AI Systems  
+💻 Tech Stack: Python | FastAPI | React | Git | SQL  
+📊 Business & Analytics : Jira | Power BI | Oracle SQL | Microsoft Excel
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Developing AI-powered software planning tools
+- Improving system design & architecture skills
+- Research in Machine Learning & Agentic Frameworks
+
+---
+
+## 📌 Projects
+- AI Co-Builder (In Progress)
+- ML-Enhanced Agentic Honeypot Framework
+- Inventory Tracking Web App
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/gursimran-singh-3ab29035a
