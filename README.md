@@ -1,7 +1,6 @@
 # Hi, I'm Gursimran Singh 👋
 
-🎓 3rd Year B.Tech CSE Student  
-🤖 Building AI Co-Builder (ProjectPilot)  
+🎓 Final Year B.Tech CSE Student   
 🧠 Researching Agentic AI Systems  
 💻 Tech Stack: Python | FastAPI | React | Git | SQL  
 📊 Business & Analytics : Jira | Power BI | Oracle SQL | Microsoft Excel
@@ -19,7 +18,9 @@
 - AI Co-Builder (In Progress)
 - ML-Enhanced Agentic Honeypot Framework
 - Inventory Tracking Web App
-
+- AI Stack Auditor
+- Weather App
+- Breast Cancer Dashboard
 ---
 
 ## 📫 Connect With Me
