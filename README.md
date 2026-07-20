@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Projects
-- AI Co-Builder (In Progress)
+- AI Co-Builder 
 - ML-Enhanced Agentic Honeypot Framework
 - Inventory Tracking Web App
 - AI Stack Auditor
