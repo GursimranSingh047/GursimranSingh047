@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="left">
-  <img src="assets/hero-ai.gif" align="right" width="380" alt="Futuristic AI Neural Orb" />
-  <br><br><br><br>
+  <img src="assets/hero-ai.gif" align="right" width="550" alt="Futuristic AI Neural Orb" />
+  <br><br>
   <h1>GURSIMRAN SINGH</h1>
   <h3>AI/ML ENGINEER | FULL-STACK DEVELOPER | AI PRODUCT BUILDER</h3>
 </div>
