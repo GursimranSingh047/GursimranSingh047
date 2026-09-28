@@ -83,38 +83,41 @@ I am a B.Tech Computer Science student and aspiring AI/ML & Full-Stack Engineer,
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3>🤖 CodeSage</h3>
-        <p>An AI-powered coding assistant/developer tool designed to help developers understand, analyze and work with code more efficiently.</p>
-        <p><b>Stack:</b> <code>Python</code> <code>AI</code> <code>APIs</code> <code>React</code></p>
+        <h3>🤖 AI Co-Builder / ProjectPilot</h3>
+        <p>An AI-powered project planning platform that transforms project ideas into structured development roadmaps, helping developers move from an initial idea to an actionable implementation plan.</p>
+        <p><b>Stack:</b> <code>FastAPI</code> <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>SQLAlchemy</code> <code>SQLite</code> <code>Google Gemini API</code> <code>Scikit-learn</code></p>
         <p>
-          <a href="https://github.com/GursimranSingh047/CodeSage-placeholder"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://github.com/GursimranSingh047/AICoBuilder"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://ai-cobuilder.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3>🧭 AI Co-Builder / ProjectPilot</h3>
-        <p>An AI-powered project planning platform that helps users transform project ideas into structured development roadmaps.</p>
-        <p><b>Stack:</b> <code>FastAPI</code> <code>React</code> <code>Tailwind</code> <code>Gemini API</code></p>
+        <h3>🤖 AI Stack Auditor</h3>
+        <p>An AI-powered application auditing system designed to analyze application stacks, identify relevant security and technical issues, and provide useful insights and recommendations.</p>
+        <p><b>Stack:</b> <code>Python</code> <code>FastAPI</code> <code>AI</code> <code>REST APIs</code> <code>Security Analysis</code></p>
         <p>
-          <a href="https://github.com/GursimranSingh047/ProjectPilot-placeholder"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-          <a href="#live-demo-placeholder"><img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
+          <a href="https://github.com/GursimranSingh047/AI-stack-auditor/tree/main"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://ai-stack-auditor-two.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🎵 Punjabi Music Recommender</h3>
-        <p>A machine-learning based Punjabi music recommendation system that generates personalized track recommendations.</p>
-        <p><b>Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Streamlit</code></p>
+        <h3>🧬 Breast Cancer Prediction System</h3>
+        <p>A machine-learning prediction/classification system that predicts whether a breast tumor is likely to be benign or malignant based on relevant diagnostic features.</p>
+        <p><b>Stack:</b> <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code></p>
         <p>
-          <a href="https://github.com/GursimranSingh047/Punjabi-Music-Recommender-placeholder"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://github.com/GursimranSingh047/breast-cancer-dashboard"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://breast-cancer-dashboard-kocyrqgchb7qli6hdgftr6.streamlit.app"><img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3>🛡️ Agentic Honeypot</h3>
-        <p>An AI-powered security project designed around detecting and analyzing potentially malicious API interactions.</p>
-        <p><b>Stack:</b> <code>Python</code> <code>AI Agents</code> <code>APIs</code></p>
+        <h3>🤖 CodeSage</h3>
+        <p>An AI-powered coding assistant designed to help developers understand, analyze and work with code more efficiently.</p>
+        <p><b>Stack:</b> <code>Python</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>LLM</code></p>
         <p>
-          <a href="https://github.com/GursimranSingh047/Agentic-Honeypot-placeholder"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://github.com/GursimranSingh047/CodeSage"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo"></a>
         </p>
       </td>
     </tr>
@@ -124,15 +127,17 @@ I am a B.Tech Computer Science student and aspiring AI/ML & Full-Stack Engineer,
 <br>
 
 <!-- GITHUB ACTIVITY -->
-## 📊 Ecosystem Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GursimranSingh047&bg_color=0D1117&color=00F2FE&line=4FACFE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GursimranSingh047&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&icon_color=4FACFE" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GursimranSingh047&theme=transparent&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" width="48%" alt="GitHub Streak" />
+  <p>
+    <img src="https://img.shields.io/badge/Contributions-Active-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Focus-AI_%7C_Full--Stack-4FACFE?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Projects-Continuous_Deployment-667EEA?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" />
+  </p>
+  <p>
+    Building open-source AI tools, deploying full-stack web applications, and experimenting with machine learning systems. Check out my repositories below for actual source code and documentation.
+  </p>
 </div>
 
 <br>
@@ -142,13 +147,16 @@ I am a B.Tech Computer Science student and aspiring AI/ML & Full-Stack Engineer,
 
 <div align="center">
   <br>
-  <a href="https://linkedin.com/in/gursimransingh047-placeholder">
+  <a href="https://linkedin.com/in/gursimransingh047" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gursimransingh.placeholder@email.com">
+  <a href="mailto:gursimransingh@example.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/GursimranSingh047">
+  <a href="https://github.com/GursimranSingh047" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
 </div>
