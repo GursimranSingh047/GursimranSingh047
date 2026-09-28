@@ -156,7 +156,7 @@ I am a B.Tech Computer Science student and aspiring AI/ML & Full-Stack Engineer,
   <a href="https://github.com/GursimranSingh047" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  <a href="https://gursimran-portfolio-21.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" />
   </a>
 </div>
