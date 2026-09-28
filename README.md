@@ -1,14 +1,11 @@
 <!-- HERO -->
-<div>
-  <img src="assets/hero-ai.gif" align="right" width="400" alt="Futuristic AI Neural Orb" />
-  <br><br><br>
+<div align="left">
+  <img src="assets/hero-ai.gif" align="right" width="380" alt="Futuristic AI Neural Orb" />
+  <br><br><br><br>
   <h1>GURSIMRAN SINGH</h1>
   <h3>AI/ML ENGINEER | FULL-STACK DEVELOPER | AI PRODUCT BUILDER</h3>
-  <br><br><br>
 </div>
 <br clear="both">
-
-<br>
 
 <!-- ABOUT -->
 ## 👨‍💻 Behind the Code
