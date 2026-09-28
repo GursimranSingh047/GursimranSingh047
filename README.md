@@ -1,7 +1,12 @@
 <!-- HERO -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00f2fe,4facfe,667eea,764ba2&height=250&section=header&text=GURSIMRAN%20SINGH&fontSize=60&fontAlignY=35&desc=AI/ML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%20PRODUCT%20BUILDER&descAlignY=55&descSize=20&fontColor=ffffff&descColor=ffffff" width="100%" alt="Header" />
+<div>
+  <img src="assets/hero-ai.gif" align="right" width="350" alt="Futuristic AI Neural Orb" />
+  <br><br><br>
+  <h1>GURSIMRAN SINGH</h1>
+  <h3>AI/ML ENGINEER | FULL-STACK DEVELOPER | AI PRODUCT BUILDER</h3>
+  <br><br><br>
 </div>
+<br clear="both">
 
 <br>
 
